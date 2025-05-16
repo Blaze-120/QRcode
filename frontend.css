@@ -1,0 +1,37 @@
+body{
+    background-color: grey;
+    font-family: sans-serif;
+}
+.container{
+    justify-self: center;
+    height: fit-content;
+    width: 320px;
+    border-radius: 20px;
+    background-color: white;
+}
+img{
+    width: 280px;
+    margin: 20px;
+    border-radius: 20px;
+    
+}
+p{
+    padding: 16px;
+    font-weight: 700;
+    font-size: 15px;
+text-align: center;
+}
+.p1, .p2{
+    margin-top:-40px ;
+    text-wrap: wrap;
+    font-weight: bolder;
+}
+.p2{
+    opacity: 0.4;
+    
+}
+ 
+
+@media (min-width:786px){
+
+}
